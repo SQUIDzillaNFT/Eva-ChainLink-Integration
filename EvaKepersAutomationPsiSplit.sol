@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.7;
 
+/*
+*  EVA Tribe by MANDOX
+*  www.twitter.com/officialmandox
+*  www.mandoxglobal.com
+*  www.mandoxmint.com
+*  t.me/officialmandox
+*/
+
 // File: solidity-bits/contracts/Popcount.sol
 
 /**
